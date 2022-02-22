@@ -7885,7 +7885,7 @@ GameObject:
   - component: {fileID: 2050180694}
   - component: {fileID: 2050180693}
   - component: {fileID: 2050180692}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: Player_SwordMan
   m_TagString: Player
   m_Icon: {fileID: 0}
